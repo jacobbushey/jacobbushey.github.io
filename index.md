@@ -6,5 +6,9 @@ layout: default
 ---
 <div class="flex-container">
   <img class="img-circle-avatar" src="/images/estrada.jpg">
-  <div class="bio">I am a PhD Student in Harvard's Atmospheric Modeling Research Group. I am passionate about the outdoors, running, and dogs. My research interests include using technology to better understand earth systems. My current focus is creating open-source, user-friendly software to improve emission estimates of Methane using inverse methods.</div>  
-</div>
+  <div class="bio">I am a PhD Student in the Wofsy Group at 
+Harvard. I am originally from Virginia Beach, via Charlottesville 
+(Go Hoos!). I enjoy running, biking and hiking. My research focuses 
+on developing novel methods to constrain anthropogenic methane 
+emissions using remote sensing technology, working closely with the 
+MethaneAIR and MethaneSAT projects.</div>  </div>
