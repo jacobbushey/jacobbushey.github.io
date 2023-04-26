@@ -9,7 +9,7 @@ permalink: /cooking/
 <br>
 
 ## Description
-Coly and I made this repository for our favorite recipes that we make on a regular basis.
+Slowly taking over Lucas' life through cooking.
 
 
 ## Recipes
