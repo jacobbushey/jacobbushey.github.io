@@ -1,4 +1,4 @@
-## Lucas' Jekyll site
+## Jacob's Jekyll site
 
 You can use the [editor on GitHub](https://github.com/laestrada/laestrada.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
