@@ -5,7 +5,7 @@
 layout: default
 ---
 <div class="flex-container">
-  <img class="img-circle-avatar" src="/images/estrada.jpg">
+  <img class="img-circle-avatar" src="/images/iceland_headshot.png">
   <div class="bio">I am a PhD Student in the Wofsy Group at 
 Harvard. I am originally from Virginia Beach, via Charlottesville 
 (Go Hoos!). I enjoy running, biking and hiking. My research focuses 
