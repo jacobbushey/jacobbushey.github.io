@@ -12,8 +12,8 @@ permalink: /cv/
 *Bachelor of Science in Environmental Science, with Highest Distinction*\
 *Bachelor of Arts in Chemistry*\
 *Minor in Religious Studies*\
-<>Varsity Cross Country and Track\
-<>Dean's List 2019
+//Varsity Cross Country and Track\
+//Dean's List 2019
 
 ### Relevant Experience
 
