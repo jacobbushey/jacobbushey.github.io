@@ -34,13 +34,6 @@ collections:
 
 # Build settings
 theme: minima
-
-header_pages:
-  - My Story: /My Story/
-  - Research: /research/
-  - CV: /cv/
-  - Coding: /coding-tips/
-
 plugins:
   - jekyll-feed
 
