@@ -8,13 +8,12 @@ permalink: /cv/
 <a href="/pdfs/Public_Resume.pdf">PDF Version</a>
 </div>
 ### Education
-**Williams College**\
-*Bachelor of Arts in Geoscience and Computer Science*\
-Varsity Cross Country and Track\
-Dean's List 2019
-
-**Middlesex School**\
-Science Department Prize in Environmental Science
+**University of Virginia, 2022**\
+*Bachelor of Science in Environmental Science, with Highest Distinction*\
+*Bachelor of Arts in Chemistry*\
+*Minor in Religious Studies*\
+#Varsity Cross Country and Track\
+#Dean's List 2019
 
 ### Relevant Experience
 
