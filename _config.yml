@@ -36,10 +36,10 @@ collections:
 theme: minima
 
 header_pages:
-  - My Story: /my-story
-  - Research: /research
-  - CV: /resume
-  - Coding: /coding-tips
+  - My Story: /My Story/
+  - Research: /research/
+  - CV: /cv/
+  - Coding: /coding-tips/
 
 plugins:
   - jekyll-feed
