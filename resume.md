@@ -12,8 +12,10 @@ permalink: /cv/
 *Bachelor of Science in Environmental Science, with Highest Distinction*\
 *Bachelor of Arts in Chemistry*\
 *Minor in Religious Studies*\
-//Varsity Cross Country and Track\
-//Dean's List 2019
+
+{::comment}
+Varsity Cross Country and Track\
+Dean's List 2019
 
 ### Relevant Experience
 
@@ -157,3 +159,5 @@ Publication in Submission;
 *Mercury and Microfossil Trends During End-Devonian Extinction Events*\
 Publication pending;
 <https://www.researchgate.net/scientific-contributions/Lucas-Estrada-2150491930>
+
+{:/comment}
