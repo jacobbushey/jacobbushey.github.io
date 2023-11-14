@@ -34,6 +34,12 @@ order: 3
 
 * Creating and grading online assignments and assessments for an intro-level environmental science course, Resources and the Environment. 
 
+### Publications and Presentations
+
+Bushey, J., M. Miles, L. Barry, M. Lerdau, X. Yang, G. Isaacman-VanWertz, S. Pusede. [A Laboratory Study Investigating Ozone Effects on Transpiration, Carbon Assimilation, and Photosynthesis by Perturbing Stomatal Diffusive Resistance]. UVA Environmental Sciences Distinguished Majors Program Thesis. (https://doi.org/10.18130/qefv-5t33)
+
+Bushey, J., M. Reidenbach, W. Kearney, S. Hogan. [Impact of Oyster Reefs on Wave Climate Along a Marsh Edge]. The Oculus (UVA Student Research Journal).
+
 ### Technical Skills
 **Programming and Software**\
 Matlab, R, Python, Version Control (Git), Microsoft Suite
@@ -52,11 +58,11 @@ Matlab, R, Python, Version Control (Git), Microsoft Suite
 
 ### Projects and Research
 
-**WRF**\
+**WRF**
 
 Working on it.
 
-**FLEXPART**\
+**FLEXPART**
 
 Working on it.
 
