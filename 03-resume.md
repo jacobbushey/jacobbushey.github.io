@@ -12,11 +12,11 @@ order: 3
 **University of Virginia, 2022**\
 *Bachelor of Science in Environmental Science, with Highest Distinction*\
 *Bachelor of Arts in Chemistry*\
-*Minor in Religious Studies*\
+*Minor in Religious Studies*
 
 ### Relevant Experience
 
-**Teaching Fellow**, EPS/ESE 50, Harvard University, 2024\
+**Teaching Fellow**, EPS/ESE 50, Harvard University, 2024
 
 * Hosting weekly discussion and lab sections.
 
@@ -24,11 +24,11 @@ order: 3
 
 * Grading assignments and generating answer keys.
 
-**Course Grader**, EVSC 3600, University of Virginia, 2022\
+**Course Grader**, EVSC 3600, University of Virginia, 2022
 
 * Grading assignments and exams for an upper-level environmental science course, Biomechanics of Organisms.
 
-**Course Grader**, EVSC 1080, University of Virginia, 2020-2021\
+**Course Grader**, EVSC 1080, University of Virginia, 2020-2021
 
 * Restructuring the course to be taught remotely during the COVID-19 pandemic.
 
@@ -49,11 +49,6 @@ Matlab, R, Python, Version Control (Git), Microsoft Suite
 * Planning and leading weekly discussions for graduate students. 
 
 * Ordering food, bugetting, procuring funding.
-
-**Teaching Assistant - Geoscience 101**, Williams College
-
-Assist 30+ students in labs and answer questions related to lectures and
-course materials
 
 ### Projects and Research
 
