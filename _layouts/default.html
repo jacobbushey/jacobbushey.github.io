@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
+  <div class="flex-container">
+       <img class="img-circle-recipe" src="{{ page.featured_image }}" alt="{{ page.title }}">
+   </div>
+
   {%- include head.html -%}
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
 

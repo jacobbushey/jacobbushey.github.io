@@ -2,8 +2,17 @@
 layout: page
 title: Research
 permalink: /research/
+Order: 2
 ---
-Coming soon!
+
+<div class="flex-container">
+     <img class="img-circle-avatar" src="/images/Wofsy_Group_03.jpg">
+  </div>
+<br>
+
+<a href="https://atmos.seas.harvard.edu/">
+
+I'm a member of the Wofsy Group at Harvard. Broadly, we study carbon in the environment. One of our longest running projects is monitoring ecosystem trends in carbon uptake at Harvard forest. These days, many of us are focusing on contributing the work of the MethaneSAT science team.
 
 <!--
 Varon, D.J., D.J. Jacob, M. Sulprizio, L.A. Estrada, W.B. Downs, L. Shen, S.E. Hancock, H. Nesser, Z. Qu, E. Penn, Z. Chen, X. Lu, A. Lorente, A. Tewari, and C.A. Randles, [Integrated Methane Inversion (IMI 1.0): a user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations](https://gmd.copernicus.org/articles/15/5787/2022/), Geosci. Model Dev., 15, 5787–5805,  https://doi.org/10.5194/gmd-15-5787-2022, 2022.
