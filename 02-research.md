@@ -11,8 +11,6 @@ Order: 2
   </div>
 <br>
 
-<a href="https://atmos.seas.harvard.edu/">Wofsy Group Page</a>
-
 I'm a member of the <a href="https://atmos.seas.harvard.edu/">Wofsy Group</a> at Harvard. Broadly, we study carbon in the environment. One of our longest running projects is monitoring ecosystem trends in carbon uptake at <a href="https://harvardforest.fas.harvard.edu/">Harvard Forest</a>. These days, many of us are focusing on contributing the work of the <a href="https://www.methanesat.org/">MethaneSAT</a> science team.
 
 My research has focused on quantifying diffuse area source emissions from oil and gas basins using inverse modeling techniques and data from MethaneAIR, the airborne precursor to MethaneSAT. I've presented some of this work at <a href="https://ams.confex.com/ams/104ANNUAL/meetingapp.cgi/Paper/429005">AMS 2024</a>.
