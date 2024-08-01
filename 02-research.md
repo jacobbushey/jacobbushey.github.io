@@ -13,7 +13,9 @@ Order: 2
 
 <a href="https://atmos.seas.harvard.edu/">Wofsy Group Page</a>
 
-I'm a member of the Wofsy Group at Harvard. Broadly, we study carbon in the environment. One of our longest running projects is monitoring ecosystem trends in carbon uptake at Harvard forest. These days, many of us are focusing on contributing the work of the MethaneSAT science team.
+I'm a member of the <a href="https://atmos.seas.harvard.edu/">Wofsy Group</a> at Harvard. Broadly, we study carbon in the environment. One of our longest running projects is monitoring ecosystem trends in carbon uptake at <a href="https://harvardforest.fas.harvard.edu/">Harvard Forest</a>. These days, many of us are focusing on contributing the work of the <a href="https://www.methanesat.org/">MethaneSAT</a> science team.
+
+My research has focused on quantifying diffuse area source emissions from oil and gas basins using inverse modeling techniques and data from MethaneAIR, the airborne precursor to MethaneSAT. I've presented some of this work at <a href="https://ams.confex.com/ams/104ANNUAL/meetingapp.cgi/Paper/429005">AMS 2024</a>.
 
 <!--
 Varon, D.J., D.J. Jacob, M. Sulprizio, L.A. Estrada, W.B. Downs, L. Shen, S.E. Hancock, H. Nesser, Z. Qu, E. Penn, Z. Chen, X. Lu, A. Lorente, A. Tewari, and C.A. Randles, [Integrated Methane Inversion (IMI 1.0): a user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations](https://gmd.copernicus.org/articles/15/5787/2022/), Geosci. Model Dev., 15, 5787–5805,  https://doi.org/10.5194/gmd-15-5787-2022, 2022.
