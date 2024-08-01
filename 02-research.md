@@ -6,7 +6,7 @@ Order: 2
 ---
 
 <div class="flex-container">
-     <img class="img-circle-avatar" src="/images/Wofsy_Group_03.jpg">
+     <img class="img-circle-large" src="/images/Wofsy_Group_03.jpg">
   </div>
 <br>
 
