@@ -7,10 +7,11 @@ Order: 2
 
 <div class="flex-container">
      <img class="img-circle-large" src="/images/Wofsy_Group_03.jpg">
+     <figcaption class="caption">Lab members from left to right: John Budney, Sebastien Roche, Zhen Zhang, Maya Nasr, Jacob Bushey (me), Eleanor Walker, Ethan Manninen, Apisada (Ju) Chulakadabba, Luke Schiferl, Steve Wofsy, Bill Munger, Joshua Benmergui. Dogs from left to right: Meta and Maple</figcaption>
   </div>
 <br>
 
-<a href="https://atmos.seas.harvard.edu/">
+<a href="https://atmos.seas.harvard.edu/">Wofsy Group Page</a>
 
 I'm a member of the Wofsy Group at Harvard. Broadly, we study carbon in the environment. One of our longest running projects is monitoring ecosystem trends in carbon uptake at Harvard forest. These days, many of us are focusing on contributing the work of the MethaneSAT science team.
 
