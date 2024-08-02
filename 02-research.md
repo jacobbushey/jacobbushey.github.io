@@ -15,6 +15,14 @@ I'm a member of the <a href="https://atmos.seas.harvard.edu/">Wofsy Group</a> at
 
 My research has focused on quantifying diffuse area source emissions from oil and gas basins using inverse modeling techniques and data from MethaneAIR, the airborne precursor to MethaneSAT. I've presented some of this work at <a href="https://ams.confex.com/ams/104ANNUAL/meetingapp.cgi/Paper/429005">AMS 2024</a>.
 
+## Current Research Projects
+
+# MethaneAIR
+
+## Past Research Projects
+- Laboratory studies on the impacts of ozone on photosynthetic efficiency in plants, conducted as a member of Sally Pusede's group. Read about it in my <a href="https://doi.org/10.18130/qefv-5t33">senior thesis</a> or <a href="https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/699083">AGU presentation</a>. 
+- Monitoring the effects of oyster reefs on the wave climate at a marsh edge. This work was conducted with Professor Matt Reidenbach at the <a href="https://www.vcrlter.virginia.edu/home2/">VCR LTER</a>. Read about it in my presentation at <a href="https://agu.confex.com/agu/osm20/preliminaryview.cgi/Paper640106.html">OSM 2020</a>.
+
 <!--
 Varon, D.J., D.J. Jacob, M. Sulprizio, L.A. Estrada, W.B. Downs, L. Shen, S.E. Hancock, H. Nesser, Z. Qu, E. Penn, Z. Chen, X. Lu, A. Lorente, A. Tewari, and C.A. Randles, [Integrated Methane Inversion (IMI 1.0): a user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations](https://gmd.copernicus.org/articles/15/5787/2022/), Geosci. Model Dev., 15, 5787–5805,  https://doi.org/10.5194/gmd-15-5787-2022, 2022.
 
