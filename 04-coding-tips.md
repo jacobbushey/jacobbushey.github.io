@@ -6,5 +6,5 @@ Order: 4
 ---
 
 # Helpful Commands
-Credit for these tips goes to Lucas Estrada. I'll be working on adding my own soon!
+Expanding upon the coding tips page provided by <a href="https://laestrada.github.io/">Lucas Estrada</a>.
 
