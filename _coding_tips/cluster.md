@@ -6,12 +6,14 @@ title: Tips for the cluster
 
 ## Tips for the cluster
 
+Expanding upon the coding tips page provided by <a href="https://laestrada.github.io/">Lucas Estrada</a>.
+
 If a user's name was John Harvard:
 
 ### unix/ bash
 - `rsync`: move files from local drive to remote
 - `find . -exec touch {} \;`: touch all files within a directory 
-- 'scp source_filepath/filename jharvard@login.rc.fas.harvard.edu:destination:filepath': from your local machine, moves a file onto the cluster. Use the recursive flag to move multiple files, reverse the order of the arguments to move files from the cluster to your home machine.
+- `scp source_filepath/filename jharvard@login.rc.fas.harvard.edu:destination:filepath`: from your local machine, moves a file onto the cluster. Use the recursive flag to move multiple files, reverse the order of the arguments to move files from the cluster to your home machine.
 
 ### slurm
 - `salloc`: starts an interactive job
@@ -22,4 +24,4 @@ If a user's name was John Harvard:
 - `-c` controls cpus per task 
 - `-m` minimum memory per core
 - `-d` controls dependencies
-- '-r' makes the argument recursive
+- `-r` makes the argument recursive
