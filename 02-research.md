@@ -19,7 +19,7 @@ My research has focused on quantifying diffuse area source emissions from oil an
 
 # MethaneAIR
 <div class="flex-container">
-     <img class="img-circle-large" src="/images/ai_generated_airplane_over_Permian.png">
+     <img class="img-circle-large" src="/images/ai_generated_airplane_over_Permian.jpg">
      <figcaption class="caption">Figure generated using AI. Meant for illustration, not scientific accuracy.</figcaption>
   </div>
 <br>
