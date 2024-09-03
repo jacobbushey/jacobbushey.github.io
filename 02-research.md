@@ -18,9 +18,12 @@ My research has focused on quantifying diffuse area source emissions from oil an
 ## Current Research Projects
 
 # MethaneAIR
-<picture>
-  <source src = "/images/ai_generated_airplane_over_Permian.webp" type="image/webp">
-</picture>
+<div class="flex-container">
+     <img class="img-circle-large" src="/images/ai_generated_airplane_over_Permian.png">
+     <figcaption class="caption">Figure generated using AI. Meant for illustration, not scientific accuracy.</figcaption>
+  </div>
+<br>
+
 
 ## Past Research Projects
 - Laboratory studies on the impacts of ozone on photosynthetic efficiency in plants, conducted as a member of Sally Pusede's group. Read about it in my <a href="https://doi.org/10.18130/qefv-5t33">senior thesis</a> or <a href="https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/699083">AGU presentation</a>. 
